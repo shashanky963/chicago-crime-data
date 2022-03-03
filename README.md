@@ -7,4 +7,6 @@ Analyzing the Chicago Crime Data through SQL queries
 True Bulgary offenses committed
 ![image](https://user-images.githubusercontent.com/100203143/156418079-803753e5-6631-43c8-8ba6-38b579624f44.png)
 
+3. Assaults in 2015
+ ![image](https://user-images.githubusercontent.com/100203143/156612702-9b541ef2-95ae-4438-81f6-1984843f3051.png)
 
