@@ -1,0 +1,8 @@
+-- false arrests in a residence 
+SELECT location_description
+,arrest
+,year
+ FROM `bigquery-public-data.chicago_crime.crime`
+ where location_description= "RESIDENCE"
+AND 
+arrest= false 
