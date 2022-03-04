@@ -15,6 +15,10 @@ True Bulgary offenses committed
    
    5. Crimes that happenend in district 5
     ![image](https://user-images.githubusercontent.com/100203143/156700469-7e83a307-9ba0-4878-bbec-926a4a28845f.png)
+    
+    6. False Residence arrests in the year 2015- Chicago crime data
+     ![image](https://user-images.githubusercontent.com/100203143/156765307-73ec0646-6cff-479e-93bf-6ba6d1e9a4d9.png)
+
 
 
 
