@@ -18,6 +18,10 @@ True Bulgary offenses committed
     
     6. False Residence arrests in the year 2015- Chicago crime data
      ![image](https://user-images.githubusercontent.com/100203143/156765307-73ec0646-6cff-479e-93bf-6ba6d1e9a4d9.png)
+     
+     7. False aggravated cases
+      ![image](https://user-images.githubusercontent.com/100203143/156776416-fa1471af-1048-482d-a576-20de47ee2610.png)
+
 
 
 
