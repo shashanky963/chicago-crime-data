@@ -12,5 +12,9 @@ True Bulgary offenses committed
  
  4. False Residence arrests data
    ![image](https://user-images.githubusercontent.com/100203143/156699569-cbef019a-7c43-4225-aa8f-9f92fd0caee9.png)
+   
+   5. Crimes that happenend in district 5
+    ![image](https://user-images.githubusercontent.com/100203143/156700469-7e83a307-9ba0-4878-bbec-926a4a28845f.png)
+
 
 
