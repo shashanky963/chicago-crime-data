@@ -21,6 +21,10 @@ True Bulgary offenses committed
      
      7. False aggravated cases
       ![image](https://user-images.githubusercontent.com/100203143/156776416-fa1471af-1048-482d-a576-20de47ee2610.png)
+      
+      8. Inner join country code country name census bureau
+       ![image](https://user-images.githubusercontent.com/100203143/156877879-2e2688a1-64ef-4bd2-b744-65affdb9e051.png)
+
 
 
 
