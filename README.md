@@ -24,6 +24,10 @@ True Bulgary offenses committed
       
       8. Inner join country code country name census bureau
        ![image](https://user-images.githubusercontent.com/100203143/156877879-2e2688a1-64ef-4bd2-b744-65affdb9e051.png)
+       
+       9. Left join country code and sex census bureau data
+       ![image](https://user-images.githubusercontent.com/100203143/156878473-8dbf4c73-fa18-4522-90ac-6034d7a077c6.png)
+
 
 
 
