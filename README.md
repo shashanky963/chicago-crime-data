@@ -13,22 +13,22 @@ True Bulgary offenses committed
  4. False Residence arrests data
    ![image](https://user-images.githubusercontent.com/100203143/156699569-cbef019a-7c43-4225-aa8f-9f92fd0caee9.png)
    
-   5. Crimes that happenend in district 5
+ 5. Crimes that happenend in district 5
     ![image](https://user-images.githubusercontent.com/100203143/156700469-7e83a307-9ba0-4878-bbec-926a4a28845f.png)
     
-    6. False Residence arrests in the year 2015- Chicago crime data
+  6. False Residence arrests in the year 2015- Chicago crime data
      ![image](https://user-images.githubusercontent.com/100203143/156765307-73ec0646-6cff-479e-93bf-6ba6d1e9a4d9.png)
      
-     7. False aggravated cases
+7. False aggravated cases
       ![image](https://user-images.githubusercontent.com/100203143/156776416-fa1471af-1048-482d-a576-20de47ee2610.png)
-      
-      8. Inner join country code country name census bureau
+     
+  8. Inner join country code country name census bureau
        ![image](https://user-images.githubusercontent.com/100203143/156877879-2e2688a1-64ef-4bd2-b744-65affdb9e051.png)
        
-       9. Left join country code and sex census bureau data
+   9. Left join country code and sex census bureau data
        ![image](https://user-images.githubusercontent.com/100203143/156878473-8dbf4c73-fa18-4522-90ac-6034d7a077c6.png)
        
-       10. left join country code country name census bureau
+   10. left join country code country name census bureau
        ![image](https://user-images.githubusercontent.com/100203143/156879015-ff0cbadb-a2d2-4812-9ef2-d04028819d86.png)
 
       
