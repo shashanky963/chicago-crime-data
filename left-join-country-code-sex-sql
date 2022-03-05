@@ -1,0 +1,5 @@
+-- left join country code and sex census bureau
+SELECT aa.country_code, bb.sex
+ FROM `bigquery-public-data.census_bureau_international.midyear_population_age_sex` as aa
+LEFT JOIN  bigquery-public-data.census_bureau_international.midyear_population_agespecific as bb
+ON aa.country_code=bb.sex
